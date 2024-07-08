@@ -17,7 +17,7 @@ Mouse can Select Camera and Mask, but currently cannot interact with anything el
 ```
 
 ## Compiling Stuff
-1. Use the Unity Version 2018.2.19, which can be found [here](https://unity.com/cn/releases/editor/whats-new/2018.2.19)
+1. Use Unity Version 2018.2.19, which can be found [here](https://unity.com/cn/releases/editor/whats-new/2018.2.19)
 2. Download and Install the WebGL Build Add-on [Here](http://download.unity3d.com/download_unity/06990f28ba00/TargetSupportInstaller/UnitySetup-WebGL-Support-for-Editor-2018.2.19f1.exe)
 3. After all has been installed, open Unity, Sign In with your Unity ID, and press the ```Open a Project``` button and select the folder that contains the assets
 4. Ignore some warnings because they definitely don't matter :)
