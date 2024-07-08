@@ -24,3 +24,6 @@ Mouse can Select Camera and Mask, but currently cannot interact with anything el
 7. Get the compilied files from whatever folder you chose to build to, which you can use to put into your website to host this game
 
 Or you can download compilied files from the Releases tab if you're lazy
+
+## Thanks to
+- WeegeeDEV for the Recreation
