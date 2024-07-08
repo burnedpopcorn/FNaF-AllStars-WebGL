@@ -3,7 +3,7 @@ A recreation of all main 4 FNaF games for the ~~PS Vita~~ Browser
 
 ## Controls
 ```
-X = Select Options / Open Camera
+X = Select Options / Open Camera / Use FlashLight
 Z = Return to Title Select (Only in Game Menu)
 Q = Return to Title Select (Whenever)
 R = See In-Game Credits
