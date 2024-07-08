@@ -6,6 +6,7 @@ A recreation of all main 4 FNaF games for the ~~PS Vita~~ Browser
 X = Select Options / Open Camera
 Z = Return to Title Select (Only in Game Menu)
 Q = Return to Title Select (Whenever)
+Left / Right = Move POV Left / Right
 ENTER / SPACE = Open Camera (ENTER only opens it, not closes)
 
 Mouse can Select Camera and Mask, but currently cannot interact with anything else
