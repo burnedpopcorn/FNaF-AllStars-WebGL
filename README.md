@@ -7,6 +7,7 @@ X = Select Options / Open Camera
 Z = Return to Title Select (Only in Game Menu)
 Q = Return to Title Select (Whenever)
 R = See In-Game Credits
+I = See Achievements
 Left / Right = Move POV Left / Right
 ENTER / SPACE = Open Camera (ENTER only opens it, not closes)
 
