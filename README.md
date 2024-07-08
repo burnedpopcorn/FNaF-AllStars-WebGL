@@ -1,5 +1,5 @@
-# FNaF-Allstars-PSVita
-A recreation of all main 4 FNaF games for the PS Vita (And I'm probably gonna try and make a Web Port, as always)
+# FNaF-Allstars-WebGL
+A recreation of all main 4 FNaF games for the ~~PS Vita~~ Browser
 
 ## Controls
 ```
